@@ -1,11 +1,11 @@
 # CodefightsSolutions
-These are my JavaScript ES6 solutions to problems on Code Signal (formerly known as Code Fights).
+These are my  solutions to problems on Code Signal (formerly known as Code Fights).
 
 ## Structure:
 My code will have the following structure:
 
-```js
-Folder(Challenge Name) 
-  => index.js(solution)
+```c
+Folder(Challenge Name)
+  => index.js(solution) or index.cs(solution)
   => README.md (Description of Problem)
 ```
