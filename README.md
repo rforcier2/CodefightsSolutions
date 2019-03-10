@@ -6,6 +6,6 @@ My code will have the following structure:
 
 ```c
 Folder(Challenge Name)
-  => index.js(solution) or index.cs(solution)
+  => index.extension(solution) or main.extension
   => README.md (Description of Problem)
 ```
